@@ -1,4 +1,4 @@
-# traffic_accidents_analysis_project
+# Nashville Metro Traffic Accidents Analysis
 This project has in as purpose some data cleaning and data exploration of public records regarding car accidents for the year of 2021. The data set used for this project is the Traffic Accidents data set obtained from the Nashville Open Data Portal. A public data set containing accident reports by the Nashville Metro Police Department across the Nashville metropolitan area.
 
 Some of the things analysed in this project were the following:
@@ -31,4 +31,9 @@ _Chart placeholder 1_
 
 _Chart placeholder 2_
 
-The complete data set contains data that dates back to 2015. For this point, previous years were also analysed. Chart 1 displays the distribution of accidents and injuries for different years. As expected, **the amount of accidents per year dramatically decreases for 2020 and 2021**, the years of the COVID-19 pandemic. As for 2021 by itself, to be continued...
+The complete data set contains data that dates back to 2015. For this point, previous years were also analysed. Chart 1 displays the distribution of accidents and injuries for different years. As expected, **the amount of accidents per year dramatically decreases for 2020 and 2021**, the years of the COVID-19 pandemic. Also, with the exception of 2021, **around 37% of all accidents involve injury**. Looking at Chart 2 it is noticeable that as 2021 progresses, injuries become more common. **Over 50% of the traffic accidents in Nashville metro involved some sort of injury in the second half of the year. Bumping up its injury average to 46%**
+
+**Citations:**
+
+* Quote dataset
+* Quote image of police precincts
